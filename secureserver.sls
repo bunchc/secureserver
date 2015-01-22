@@ -1,5 +1,4 @@
 include:
-  - secureserver.sysctl
   - secureserver.firewall-base
 
 software-requirements:
